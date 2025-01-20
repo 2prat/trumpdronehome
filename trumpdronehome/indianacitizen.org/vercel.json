@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/AI-Drones-Guard-Trump-Mar-A-Lago",
+      "source": "/AI-Drones-Guard-Trump-At-Mar-A-Lago-And-Swearing-In",
       "destination": "https://trumpdrone.vercel.app/"
     }
   ]
