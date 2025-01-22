@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/AI-Drones-Guard-Trump-At-Mar-A-Lago-And-Swearing-In",
-      "destination": "https://trumpdrone.vercel.app/"
+      "source": "/AI-Helps-Trump-Up-His-Golf-Game",
+      "destination": "https://aigolf-nu.vercel.app/"
     }
   ]
 }
