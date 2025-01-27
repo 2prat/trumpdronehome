@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/AI-Helps-Trump-Up-His-Golf-Game",
+      "source": "/Border-Patrol-Shot-By-Mexican-Cartel",
       "destination": "https://aigolf-nu.vercel.app/"
     }
   ]
